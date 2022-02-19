@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[portfolio]: "https://manojmkdev.github.io"
+[portfolio]: https://manojmkdev.github.io
