@@ -1,13 +1,13 @@
 ### Hi there🧑🏻‍💻, I'm [Manojkumar S][portfolio] 👋
 <hr />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on null
-- 🌱 I’m currently learning nothing
-- 👯 I’m looking to collaborate on noone
-- 🤔 I’m looking for help with ... I mean fuck that! I dont need help.
-- 💬 Ask me about your mom
+- 🌱 I’m an engineering undergraduate who holds some technical knowledge with some perseverance to improve towards my interests and in updating myself towards forthcoming technologies.
+- 📟 I enjoy making websites that are appealing to the users eye as well as meeting their needs. 
+- ⚙️ I hold my strengths towards full stack development and designing UI/UX 
+
+
+
 
 
 
