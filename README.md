@@ -3,11 +3,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
+- 🔭 I’m currently working on null
+- 🌱 I’m currently learning nothing
+- 👯 I’m looking to collaborate on noone
+- 🤔 I’m looking for help with ... I mean fuck that! I dont need help.
+- 💬 Ask me about your mom
 
 
 
