@@ -1,5 +1,5 @@
 ### Hi there🧑🏻‍💻, I'm [Manojkumar S][portfolio] 👋
-<br />
+<hr />
 
 Here are some ideas to get you started:
 
