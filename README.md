@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="manojmk2910@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+<br/>
 
 ### Languages and Tools:
 <hr />
