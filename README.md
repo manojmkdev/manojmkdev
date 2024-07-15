@@ -38,7 +38,7 @@ I'm proficient in a wide range of technologies and tools, including but not limi
 <br />
 
 
-[website]: https://manojmkdev.github.io/
+[website]:  https://manojmkdev.github.io/manojmkdev/
 [linkedin]: https://www.linkedin.com/in/manojkumar-s-77569b20b/
 
 
