@@ -19,6 +19,7 @@ I'm proficient in a wide range of technologies and tools, including but not limi
 - 🔹 JavaScript
 - 🔹 HTML5 & CSS3
 - 🔹 React Js
+- 🔹 Spring Boot
 - 🔹 Linux
 - 🔹 Git & Version Control
 - 🔹 Adobe XD
@@ -34,7 +35,9 @@ I'm proficient in a wide range of technologies and tools, including but not limi
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
+<img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="Ubuntu" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
+<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" />
 <br />
 <br />
 
