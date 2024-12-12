@@ -19,6 +19,7 @@ I'm proficient in a wide range of technologies and tools, including but not limi
 - 🔹 JavaScript
 - 🔹 HTML5 & CSS3
 - 🔹 React Js
+- 🔹 Linux
 - 🔹 Git & Version Control
 - 🔹 Adobe XD
 
@@ -33,7 +34,7 @@ I'm proficient in a wide range of technologies and tools, including but not limi
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
+<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" />
 <br />
 <br />
 
