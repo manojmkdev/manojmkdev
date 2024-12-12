@@ -1,4 +1,4 @@
-## 👨‍💻 I am a Web Developer
+## 👨‍💻 I am a Developer
 
 ### 🚀 What I Do:
 
