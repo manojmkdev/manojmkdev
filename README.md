@@ -36,7 +36,7 @@ I'm proficient in a wide range of technologies and tools, including but not limi
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="Bash" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" />
+<img align="left" alt="Bash" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" />
 <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
