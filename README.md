@@ -23,6 +23,8 @@ I'm proficient in a wide range of technologies and tools, including but not limi
 - 🔹 Bash
 - 🔹 Git & Version Control
 - 🔹 Adobe XD
+- 🔹 Postman
+- 🔹 Power BI 
 
 
 ### Languages and Tools:
