@@ -6,7 +6,6 @@ Hi, I’m **Manojkumar S**, a Software Engineer with **2+ years of experience** 
 
 I enjoy solving real-world problems by designing **clean architectures**, building **robust RESTful APIs**, and integrating **efficient backend systems** with **intuitive user interfaces**.
 
----
 
 ## 💡 Expertise
 
@@ -18,7 +17,6 @@ I enjoy solving real-world problems by designing **clean architectures**, buildi
 - ✅ Problem Solving with Data Structures & Algorithms
 - ✅ API Testing & Debugging (Postman)
 
----
 
 ## 🌟 My Approach
 
@@ -27,7 +25,6 @@ I focus on writing **maintainable, testable code** while aligning technical solu
 
 My experience as a **developer and technical trainer** helps me explain complex concepts clearly and build systems that **scale with confidence**.
 
----
 
 ## 🔧 Tools & Technologies
 
@@ -49,7 +46,6 @@ My experience as a **developer and technical trainer** helps me explain complex 
 **Others**
 - Bash, SDLC, API Testing
 
----
 
 ## 🧰 Languages & Tools
 
