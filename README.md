@@ -1,6 +1,6 @@
-# 👨‍💻 I am a Software Engineer
+# 👨‍💻 I am a Software Engineer 
 
-## 🚀 What I Do
+## What I Do
 
 Hi, I’m **Manojkumar S**, a Software Engineer with **2+ years of experience** in building **scalable, secure, and high-performance applications**. I specialize in **Java, Spring Boot, Microservices, and ReactJS**, with a strong foundation in **Data Structures & Algorithms** and **backend system design**.
 
