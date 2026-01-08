@@ -7,7 +7,7 @@ Hi, I’m **Manojkumar S**, a Software Engineer with **2+ years of experience** 
 I enjoy solving real-world problems by designing **clean architectures**, building **robust RESTful APIs**, and integrating **efficient backend systems** with **intuitive user interfaces**.
 
 
-## 💡 Expertise
+## Expertise
 
 - ✅ Backend Development (Java, Spring Boot, Microservices)
 - ✅ RESTful API Design & Integration
