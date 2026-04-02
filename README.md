@@ -35,7 +35,7 @@ My experience as a **developer and technical trainer** helps me explain complex 
 - ReactJS, HTML5, CSS3, JavaScript, Bootstrap
 
 **Backend**
-- Spring Boot, REST APIs, Microservices, Spring Security
+- Spring Boot, REST APIs, Spring Security
 
 **Database**
 - MySQL, JPA/Hibernate
